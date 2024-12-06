@@ -23,14 +23,14 @@ quiz_data = [
     },
     {
         "image_path": "img/Muhammad_Toha.jpg",
-        "question": "Foto diatas adalah tokoh yang memimpin pembakaran kota Bandung dalam peristiwa Bandung Lautan Api adalah",
+        "question": "Apa tujuan utama dari aksi membakar kota Bandung dalam peristiwa Bandung Lautan Api pada 24 Maret 1946",
         "choices": [
-            "Mohammad Toha",
-            "Sutan Sjahrir",
-            "Ir. Soekarno",
-            "Abdul Haris Nasution"
+            "Untuk mengusir penjajah Jepang dari Bandung",
+            "Untuk mencegah pasukan Sekutu dan Belanda menggunakan Bandung sebagai markas militer",
+            "Untuk menunjukkan kekuatan militer Indonesia kepada dunia",
+            "Untuk melindungi penduduk Bandung dari serangan udara"
             ],
-        "answer": "Mohammad Toha"
+        "answer": "Untuk mencegah pasukan Sekutu dan Belanda menggunakan Bandung sebagai markas militer"
     },
     {
         "image_path": "",

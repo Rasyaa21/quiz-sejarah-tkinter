@@ -11,7 +11,6 @@ def show_question():
     choices = question["choices"]
     for i in range(4):
         choice_btns[i].config(text=choices[i], state="normal") 
-
     feedback_label.config(text="")
     next_btn.config(state="disabled")
 
